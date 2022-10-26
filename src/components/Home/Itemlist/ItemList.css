@@ -1,0 +1,6 @@
+.cardItem{
+    margin: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}

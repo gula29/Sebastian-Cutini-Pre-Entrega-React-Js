@@ -1,0 +1,26 @@
+
+.cardItem{
+    
+    margin: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: flex-end;
+    
+    
+    
+}
+
+.card {height: 22rem;
+    width: 16rem ;
+    margin: 5px;
+    background-color: rgb(155, 153, 153);
+    text-decoration: none;
+    
+}
+.cardProps{
+   
+    color: white;
+    background-color: rgb(155, 153, 153)
+}
+a{ text-decoration: none!important}

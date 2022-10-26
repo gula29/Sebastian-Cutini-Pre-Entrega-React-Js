@@ -1,0 +1,13 @@
+.contador{
+    display: flex;
+
+}
+button{
+    background-color: rgb(128, 128, 128);
+    margin: 10px;
+    width: 30px;
+    width: 30px;
+}
+h3{
+    margin: 10px;
+}
